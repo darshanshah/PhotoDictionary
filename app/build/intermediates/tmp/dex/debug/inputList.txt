@@ -1,0 +1,6 @@
+C:\Users\Harshil.Harshil-PC\AndroidStudioProjects\PhotoDictionary\app\build\intermediates\classes\debug
+C:\Users\Harshil.Harshil-PC\AndroidStudioProjects\PhotoDictionary\app\build\intermediates\pre-dexed\debug\jtar-1.0.4-d51d2dd46193e7df3660e9844a382644df99068b.jar
+C:\Users\Harshil.Harshil-PC\AndroidStudioProjects\PhotoDictionary\app\build\intermediates\pre-dexed\debug\microsoft-translator-java-api-0.4-mod-395bbc472312fac2b8066563c18c41c168f53564.jar
+C:\Users\Harshil.Harshil-PC\AndroidStudioProjects\PhotoDictionary\app\build\intermediates\pre-dexed\debug\json_simple-1.1-7163ff69229c13c6e4964e201d8c87ccc6748914.jar
+C:\Users\Harshil.Harshil-PC\AndroidStudioProjects\PhotoDictionary\app\build\intermediates\pre-dexed\debug\google-api-translate-java-0.98-mod-afa8c80e1225f538dd90bf90ec8706e48912e866.jar
+C:\Users\Harshil.Harshil-PC\AndroidStudioProjects\PhotoDictionary\app\build\intermediates\pre-dexed\debug\libGoogleAnalytics-a8389b513f06423dcd7888c82c37663639317043.jar

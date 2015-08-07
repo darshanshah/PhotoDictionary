@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <PreferenceCategory android:title="General settings">
+
+        <ListPreference
+            android:entries="@array/capturemodes"
+            android:entryValues="@array/capturemodes"
+            android:key="dict_mode"
+            android:title="Dictionary Mode" />
+
+
+    </PreferenceCategory>
+
+
+    <!-- ADVANCED SETTINGS -->
+    <PreferenceCategory android:title="Advanced settings">
+        <CheckBoxPreference
+            android:key="preferences_play_beep"
+            android:title="Beep" />
+
+        <CheckBoxPreference
+            android:key="preference_toggle_light"
+            android:title="Light" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
+<!-- From: file:/C:/Users/Harshil.Harshil-PC/AndroidStudioProjects/PhotoDictionary/app/src/main/res/xml/preferences.xml -->

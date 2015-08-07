@@ -1,0 +1,6 @@
+C:\Users\Harshil.Harshil-PC\AndroidStudioProjects\Hawksword\app\build\intermediates\classes\debug
+C:\Users\Harshil.Harshil-PC\AndroidStudioProjects\Hawksword\app\build\intermediates\pre-dexed\debug\jtar-1.0.4-1c9a0e1fadad5f35ce5508b3ecf77c1f1f1fcc99.jar
+C:\Users\Harshil.Harshil-PC\AndroidStudioProjects\Hawksword\app\build\intermediates\pre-dexed\debug\microsoft-translator-java-api-0.4-mod-43d24f4eb0ae151fff6f519c4a82ef53aaaa2628.jar
+C:\Users\Harshil.Harshil-PC\AndroidStudioProjects\Hawksword\app\build\intermediates\pre-dexed\debug\json_simple-1.1-33d287438473a1af6d60de2ee6a45710eefc9d3a.jar
+C:\Users\Harshil.Harshil-PC\AndroidStudioProjects\Hawksword\app\build\intermediates\pre-dexed\debug\google-api-translate-java-0.98-mod-e159c4a065da06145481b657c150053a5c039350.jar
+C:\Users\Harshil.Harshil-PC\AndroidStudioProjects\Hawksword\app\build\intermediates\pre-dexed\debug\libGoogleAnalytics-ec3de0683e6f0803b2d48e1eab85e3ee69447967.jar
